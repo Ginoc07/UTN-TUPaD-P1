@@ -76,5 +76,7 @@ print(compras)
 
 lista_anidada = [15, True, [25.5, 57.9, 30.6], False]
 
+#Se puede también anidar verticalmente, pero prefiero de forma horizontal
+
 print(lista_anidada)
 
